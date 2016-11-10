@@ -1,0 +1,42 @@
+@charset "utf-8";
+form .btn.btn-default {
+	margin-top: 5px;
+}
+form .btn.btn-default:hover  {
+	margin-top: 5px;
+	background-color: #464646;
+	color: #FFFFFF;
+}
+body p {
+	font-style: normal;
+	font-weight: 400;
+	font-size: medium;
+}
+body {
+	background-image: url(../images/wallhaven-243292.jpg);
+	background-size: cover;
+}
+.container {
+	background-color: #FFFFFF;
+	border-radius: 5px;
+	margin-top: 10px;
+	padding-bottom: 20px;
+}
+#defaultNavbar1  {
+	background-color: #232020;
+	color: #FFFFFF;
+}
+.container .navbar.navbar-default .container-fluid {
+	background-color: #FFFFFF;
+	-webkit-box-shadow: 0px 0px 3px;
+	box-shadow: 0px 0px 3px;
+	border-left-width: thin;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+}
+
+.nav.navbar-nav.navbar-right li a {
+	color: #FFFFFF;
+}
