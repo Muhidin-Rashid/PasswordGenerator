@@ -131,7 +131,7 @@ $rating = password_strength($password);
 	     
 <br><br>
 	     <p>Please Rate The strength of your password</p>
-			<form action="Password.php" method="post">
+			<form action="index.php" method="post">
 				<div class="form-group">
 					<div class="controls">
 						<input class=" form-control col-sm-6 col-lg-6" type="text" name="rate" id="rate" autofocus placeholder="Password">
